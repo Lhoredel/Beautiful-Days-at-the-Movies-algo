@@ -1,1 +1,2 @@
 # Beautiful-Days-at-the-Movies-algo
+This codes this program solves the Beautiful Days at the Movies problem by counting the number of days in a range meeting the "beautiful" criterion. Determining the absolute difference between the original and reversed numbers by flipping the digits of each day in the range and calculating how many days There are; the program searches every day. Many of these differences are divided equally by the provided divisor.
